@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @AditiRastogi250701
-- 👀 I’m interested in Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on ML and Data Science projects
-- 📫 How to reach me aditi2507rastogi@gmail.com
-
-<!---
-AditiRastogi250701/AditiRastogi250701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Predicting House Price.
+Techniques used - 1.Linear Regression
+                  2.Gradient Boosting Regressor
+                  3.OLS Model
+                  4.Ridge Model
+                  5.Lasso Model
+                  6.BayesianRidge Model
+                  7.ElasticNet Model
+                  8.Random Forest Model
+                  9.SVM
+            
+A file containing visualizations done through tableau software is also attached for having a clearer understanding.
+Link for Tableau file - https://tabsoft.co/3CcKYOh
